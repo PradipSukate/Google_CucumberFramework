@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="139.779" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validation of email journey" name="verify user is able to send email successfully" time="139.34">
+<system-out><![CDATA[
+Given user is on gmail dashboard page.......................................passed
+When user try to send email.................................................passed
+Then user should see sent email in sent option..............................passed
+]]></system-out>
+</testcase>
+</testsuite>

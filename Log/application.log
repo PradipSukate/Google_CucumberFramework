@@ -1,0 +1,20 @@
+[INFO ] 2023-03-31 22:25:57.566 [main] GmailStepDefinition - user is on gmail dashboard page
+[DEBUG] 2023-03-31 22:26:25.527 [main] GmailStepDefinition - user tried to compose email 
+[INFO ] 2023-03-31 22:26:29.854 [main] GmailStepDefinition - user saw sent mail in sent option
+[INFO ] 2023-03-31 22:49:01.970 [main] GmailStepDefinition - you are on browser
+[INFO ] 2023-03-31 22:49:05.938 [main] GmailStepDefinition - you are on your webpage
+[INFO ] 2023-03-31 22:49:11.751 [main] GmailStepDefinition - you have entered userid to log in
+[INFO ] 2023-03-31 22:49:14.674 [main] GmailStepDefinition - you have entered password to log in
+[INFO ] 2023-03-31 22:49:18.976 [main] GmailStepDefinition - user is on gmail dashboard page
+[INFO ] 2023-03-31 22:49:19.002 [main] GmailStepDefinition - your testcase has failed 
+[DEBUG] 2023-03-31 22:49:42.659 [main] GmailStepDefinition - user tried to compose email 
+[INFO ] 2023-03-31 22:49:42.661 [main] GmailStepDefinition - your testcase has failed 
+[INFO ] 2023-03-31 22:49:46.967 [main] GmailStepDefinition - user saw sent mail in sent option
+[INFO ] 2023-03-31 22:49:46.969 [main] GmailStepDefinition - your testcase has failed 
+[INFO ] 2023-04-02 07:33:05.401 [main] GmailStepDefinition - you are on browser
+[INFO ] 2023-04-02 07:33:32.939 [main] GmailStepDefinition - you are on your webpage
+[INFO ] 2023-04-02 07:33:54.754 [main] GmailStepDefinition - you have entered userid to log in
+[INFO ] 2023-04-02 07:33:59.115 [main] GmailStepDefinition - you have entered password to log in
+[INFO ] 2023-04-02 07:34:03.479 [main] GmailStepDefinition - user is on gmail dashboard page
+[DEBUG] 2023-04-02 07:35:00.116 [main] GmailStepDefinition - user tried to compose email 
+[INFO ] 2023-04-02 07:35:04.982 [main] GmailStepDefinition - user saw sent mail in sent option
